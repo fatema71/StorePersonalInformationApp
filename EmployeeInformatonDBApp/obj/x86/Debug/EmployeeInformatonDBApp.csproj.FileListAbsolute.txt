@@ -1,0 +1,13 @@
+E:\database\EmployeeInformatonDBApp\EmployeeInformatonDBApp\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\database\EmployeeInformatonDBApp\EmployeeInformatonDBApp\obj\x86\Debug\EmployeeInformatonDBApp.Properties.Resources.resources
+E:\database\EmployeeInformatonDBApp\EmployeeInformatonDBApp\obj\x86\Debug\EmployeeInformatonDBApp.UI.CustomerInformationUI.resources
+E:\database\EmployeeInformatonDBApp\EmployeeInformatonDBApp\obj\x86\Debug\EmployeeInformatonDBApp.UI.MainMenuUI.resources
+E:\database\EmployeeInformatonDBApp\EmployeeInformatonDBApp\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\database\EmployeeInformatonDBApp\EmployeeInformatonDBApp\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\database\EmployeeInformatonDBApp\EmployeeInformatonDBApp\bin\Debug\EmployeeInformatonDBApp.exe.config
+E:\database\EmployeeInformatonDBApp\EmployeeInformatonDBApp\bin\Debug\EmployeeInformatonDBApp.exe
+E:\database\EmployeeInformatonDBApp\EmployeeInformatonDBApp\bin\Debug\EmployeeInformatonDBApp.pdb
+E:\database\EmployeeInformatonDBApp\EmployeeInformatonDBApp\obj\x86\Debug\EmployeeInformatonDBApp.exe
+E:\database\EmployeeInformatonDBApp\EmployeeInformatonDBApp\obj\x86\Debug\EmployeeInformatonDBApp.pdb
+E:\database\EmployeeInformatonDBApp\EmployeeInformatonDBApp\obj\x86\Debug\EmployeeInformatonDBApp.UI.DesignationUI.resources
+E:\database\EmployeeInformatonDBApp\EmployeeInformatonDBApp\obj\x86\Debug\EmployeeInformatonDBApp.UI.EditSearchUI.resources
